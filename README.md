@@ -9,13 +9,30 @@ como Docker.
 - [Git](https://git-scm.com)
 - [Docker](https://docs.docker.com)
 
+## Obtener una copia del proyecto
+
+Para clonar este proyecto, puedes seguir los siguientes pasos:
+
+1. Abre una terminal en tu máquina y navega hasta el directorio donde deseas clonar el proyecto.
+   
+2. En este [enlace](https://github.com/drestrepob/containerization-demo) encontarás el sitio en el que se encuentra alojado el proyecto.
+   
+3. Ejecuta el siguiente comando para clonar el repositorio:
+
+    ```bash
+    git clone https://github.com/danielrestrepo/containerization-demo.git
+    ```
+
+Una vez que se complete la clonación, tendrás una copia local del proyecto en tu máquina.
+
+
 ## Ejecutar el proyecto
 
 Para ejecutar el proyecto, sigue los siguientes pasos:
 
 1. Asegúrate de tener Docker instalado en tu máquina. Puedes descargarlo desde [aquí](https://www.docker.com/get-started).
 
-2. Abre una terminal y navega hasta el directorio del proyecto
+2. Abre una terminal y navega hasta el directorio del proyecto.
 
 3. Construye la imagen del contenedor ejecutando el siguiente comando:
 
